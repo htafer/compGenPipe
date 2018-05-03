@@ -1,0 +1,2 @@
+# compGenPipe
+comparative genomics pipeline
